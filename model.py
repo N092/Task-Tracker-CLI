@@ -1,5 +1,5 @@
 from dataclasses import dataclass
-# This file contains all the datastructure needed.
+# This file contains all the data structure needed for tool.
 @dataclass
 class Task:
     id: int
