@@ -80,9 +80,9 @@ python cli.py display
 Filter by status:
 
 ```bash
-python cli.py display --status done
-python cli.py display --status in_progress
-python cli.py display --status todo
+python cli.py display --status "done"
+python cli.py display --status "in-progress"
+python cli.py display --status "todo"
 ```
 
 ## Project Structure
