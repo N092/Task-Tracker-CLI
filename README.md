@@ -110,6 +110,7 @@ Task-Tracker-CLI/
 This project is built as a lightweight learning exercise to understand CLI design, argument parsing, and basic project structure in Python.
 
 ## Acknowledgement
+
 This project idea was inspired by the Task Tracker project from https://roadmap.sh/projects/task-tracker.
 It was built as part of my learning process while practicing Python and CLI development.
 ---
